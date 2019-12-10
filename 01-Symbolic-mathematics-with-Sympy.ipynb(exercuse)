@@ -1,6 +1,5 @@
 ##Manipulating symbolic expressions
 
-import sympy as sym
 
 # -*- coding: utf-8 -*-
 """Untitled16.ipynb
